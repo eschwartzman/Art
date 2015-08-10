@@ -1,4 +1,4 @@
-These are some programs I made in 2013 that output some art-like pictures/things
+These are some programs I made in 2013 that output some art-like pictures
 
 	Some examples include:
  
